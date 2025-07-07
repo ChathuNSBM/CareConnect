@@ -128,12 +128,6 @@ This project is developed for educational purposes as part of the Web Designing 
 
 This is an academic project. For any suggestions or improvements, please contact the developer.
 
-## 📞 Support
-
-For technical support or questions about this project:
-- Email: [your-email@example.com]
-- University: NSBM Green University
-- Module: Web Designing (BSCMM1022)
 
 ## 🙏 Acknowledgments
 - **Bootstrap Team** - Frontend Framework

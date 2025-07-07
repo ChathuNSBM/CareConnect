@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/4b79d676-bde9-43cb-97af-7066bd769e7b)
+
+
+
+
 # Care Connect - Healthcare Platform
 
 ## 🏥 Project Overview
